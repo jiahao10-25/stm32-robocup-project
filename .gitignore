@@ -1,0 +1,24 @@
+# Keil MDK
+*.uvoptx
+*.uvgui*
+*.lst
+*.map
+*.axf
+*.elf
+*.hex
+*.bin
+*.o
+*.d
+*.crf
+*.tra
+*.dep
+Debug/
+Release/
+build/
+
+# STM32CubeMX
+*.ioc.bak
+.MX_UserConf.ini
+
+# Windows
+Thumbs.db
